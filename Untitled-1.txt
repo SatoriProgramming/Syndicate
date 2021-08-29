@@ -1,0 +1,4 @@
+--- To Do ---
+User Sign Up
+Req's before joining
+dashboard with analytics (new sign ups, revenue, etc.)
